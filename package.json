@@ -62,7 +62,7 @@
 	"devDependencies": {
 		"@types/react": "^16.9.51",
 		"@typescript-eslint/eslint-plugin": "^4.4.0",
-		"@typescript-eslint/parser": "^4.4.0",
+		"@typescript-eslint/parser": "^4.9.1",
 		"copy-and-watch": "^0.1.5",
 		"eslint": "^6.6.0",
 		"eslint-config-prettier": "^6.12.0",
